@@ -25,5 +25,5 @@ score ( logistic reg) - _ **76.315**_
 ![5388e432-c5d1-4aa3-b2da-32fb972ba0d2](https://user-images.githubusercontent.com/80956033/144711597-51c2a947-60de-4dee-9a49-bf1a39e0a07f.jpg)
 
 
-#Data analysis
-file:///C:/Users/Ankur%20Shukla/OneDrive/Desktop/practice_ml/datafile_analysis.html
+
+
