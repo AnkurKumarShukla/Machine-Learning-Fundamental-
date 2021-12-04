@@ -2,6 +2,7 @@
 i tried all sort of classification model (supervised learning) 
 (which is visible in kag.ipynb file )
 
+i had also given detain analysis of data ( i insist  to see html file in browser )
 
 **1. RANDOM FOREST CLASSIFICATION 
 2. SVM 
