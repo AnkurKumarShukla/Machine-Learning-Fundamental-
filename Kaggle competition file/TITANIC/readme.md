@@ -5,12 +5,12 @@ i tried all sort of classification model (supervised learning)
 i had also given detain analysis of data ( i insist  to see html file in browser )
 
 **1. RANDOM FOREST CLASSIFICATION <br/>
-2. SVM  
-3. KERNEL SVM 
-4. NAVIE BAIS CLASSIFICATION
-5. LOGISTION REGRESSION
-6. DECCISSION TREE
-7. K-NEAREST NEIGHBOUR**
+2. SVM  <br/>
+3. KERNEL SVM  <br/>
+4. NAVIE BAIS CLASSIFICATION  <br/>
+5. LOGISTION REGRESSION    <br/>
+6. DECCISSION TREE          <br/>
+7. K-NEAREST NEIGHBOUR **
 
 I found **RANDOM FOREST** AND **LOGISTIC** give same accuracy . 
 
