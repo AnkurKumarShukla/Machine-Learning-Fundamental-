@@ -4,8 +4,8 @@ i tried all sort of classification model (supervised learning)
 
 i had also given detain analysis of data ( i insist  to see html file in browser )
 
-**1. RANDOM FOREST CLASSIFICATION 
-2. SVM 
+**1. RANDOM FOREST CLASSIFICATION <br/>
+2. SVM  
 3. KERNEL SVM 
 4. NAVIE BAIS CLASSIFICATION
 5. LOGISTION REGRESSION
