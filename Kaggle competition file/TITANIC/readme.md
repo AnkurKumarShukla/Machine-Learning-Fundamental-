@@ -10,7 +10,7 @@ i had also given detain analysis of data ( i insist  to see html file in browser
 4. NAVIE BAIS CLASSIFICATION  <br/>
 5. LOGISTION REGRESSION    <br/>
 6. DECCISSION TREE          <br/>
-7. K-NEAREST NEIGHBOUR **
+7. K-NEAREST NEIGHBOUR**
 
 I found **RANDOM FOREST** AND **LOGISTIC** give same accuracy . 
 
