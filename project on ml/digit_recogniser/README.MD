@@ -1,7 +1,7 @@
-                                     A TWIST with MNIST
+ #                                   A TWIST with MNIST
 
  
-The MNIST dataset has handwritten digits from 0 to 9. This is one of the best datasets to use for starting with image recognition using deep learning, and has been explored thoroughly for years by research scientists for various purposes. This challenge brings a twist to the MNIST dataset by adding handwritten values from 10 to 19 instead of 0 to 9. Every image in the dataset has values from 10 to 19 along with the corresponding label. 
+_The MNIST dataset has handwritten digits from 0 to 9. This is one of the best datasets to use for starting with image recognition using deep learning, and has been explored thoroughly for years by research scientists for various purposes. This challenge brings a twist to the MNIST dataset by adding handwritten values from 10 to 19 instead of 0 to 9. Every image in the dataset has values from 10 to 19 along with the corresponding label. 
 The task for this challenge is to create a model which can accurately identify the value from the images. We will be evaluating submissions based on the accuracy of the predicted labels against the true labels. 
 The dataset has 3 files, train.csv, test.csv and submission_format.csv. 
 The train.csv has 1401 columns, where the first 1400 columns are flattened images of the handwritten values. Each image has a dimension of 28x50. The last column is "label" which is the corresponding label for every image. 
@@ -10,9 +10,13 @@ The submission format is given with the dataset (submission_format.csv). Every i
 Files
 1.	 train.csv - the training set
 2.	test.csv - the test set
-3.	submission_format.csv - a sample submission file in the correct format
+3.	submission_format.csv - a sample submission file in the correct format_
 
-
+<br>
+<br>
+<br>
+#                   Solution 
+<br>
 Language – python (ipynb)
 Solution on my Kaggle id – Here
 LINK = https://www.kaggle.com/code/ankurkumarshukla/digit-recog
@@ -26,7 +30,7 @@ Tensorflow = to use keras module to make model , create input and hidden layers 
 
 Approach = Problem is solved using simple neural network 
 
-First I split the train data for validation . Then created 2 function named – ankmagic  and changer . Those function transform 1d image data to 28 x 50 2d array  for visualisation
+First I split the train data for validation . Then created 2 function named – **ankmagic  and changer** . Those function transform 1d image data to 28 x 50 2d array  for visualisation
 
 After this normalisation occur . Neural networks process inputs using small weight values, and inputs with large integer values can disrupt or slow down the learning process. As such it is good practice to normalize the pixel values so that each pixel value has a value between 0 and 1.
 
