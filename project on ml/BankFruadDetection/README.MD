@@ -12,6 +12,7 @@ results of your machine learning model.<br>
 ## Data Dictionary & Source Acquisition<br><br>
  Data Dictionary: The data dictionary of the dataset can be found([Here](https://drive.google.com/uc?id=1VQ-HAm0oHbv0GmDKP2iqqFNc5aI91OLn&export=download)).<br>
  Data Source: The dataset can be found [Here](https://drive.google.com/uc?export=download&confirm=6gh6&id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV) <br>
+Note that excel data is  **471mb**<br>
 
 <br><br>
 ## Task <br>
