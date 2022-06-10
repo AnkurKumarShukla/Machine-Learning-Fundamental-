@@ -9,5 +9,5 @@ calibration data and tested on the validation data. This case requires both stat
 creativity/judgment. We recommend you spend time on both fine-tuning and interpreting the 
 results of your machine learning model.
 Data Dictionary & Source Acquisition
- Data Dictionary: The data dictionary of the dataset can be found(Here).
- Data Source: The dataset can be found here
+ Data Dictionary: The data dictionary of the dataset can be found([Here](https://drive.google.com/uc?id=1VQ-HAm0oHbv0GmDKP2iqqFNc5aI91OLn&export=download)).
+ Data Source: The dataset can be found [Here](https://drive.google.com/uc?export=download&confirm=6gh6&id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV)
